@@ -34,28 +34,39 @@
 
   ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 
-<!--
+
    </br>
   
   ---
   # 📝  Knowledge  📝
-  개인적으로 공부하며 경험한 약간의 기술
-  
-  ![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
+  개인적으로 공부하며 경험한 약간의 기술과 지식
   
   ![MSA](https://img.shields.io/badge/MSA-000000.svg?&style=for-the-badge&logo=MSA&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+<!--
+maven
+gradle
+jenkins
+travisCI
+python
+Lombok
+Jacoco
+Mock
+
+  ![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white)
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?&style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-  
-  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+  
+  ![Refactoring](https://img.shields.io/badge/MSA-000000.svg?&style=for-the-badge&logo=MSA&logoColor=white)
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 -->
 
 
