@@ -40,13 +40,11 @@
   ---
   # 📝  Knowledge  📝
   개인적으로 공부하며 경험한 약간의 기술과 지식
-
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-
   ![MSA](https://img.shields.io/badge/MSA-000000?style=flat&logo=MSA&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-    
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
